@@ -1,0 +1,17 @@
+
+.idea/*
+build_opencv/*
+venv/*
+.gitattributes
+bose.js
+corner tracking.mov
+emg_video_sweeps.m
+motion_per_stim.m
+motion_tracking.m
+opencv/
+opticalfb.png
+opticalhsv.png
+periodogram_twitch.png
+test.csv
+twitch_one.m4v
+twitch_two.mp4
